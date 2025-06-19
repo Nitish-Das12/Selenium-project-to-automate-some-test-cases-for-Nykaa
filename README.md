@@ -1,7 +1,5 @@
 # Selenium-project-to-automate-some-test-cases-for-Nykaa
- Nykaa (a popular beauty and cosmetics e-commerce website in India). Below is a basic structure with sample test cases written in Python using Selenium.
-Here's a **ready-to-use GitHub structure and README content** for your **Selenium automation project for Nykaa**. You can copy this into your GitHub repository to showcase your work professionally.
-
+ Nykaa (a popular beauty and cosmetics e-commerce website in India). 
 ---
 
 ### 📁 GitHub Repo Structure
